@@ -1,0 +1,1 @@
+﻿https://raw.githubusercontent.com/SteveSandersonMS/BlazorInputFile/master/BlazorInputFile/wwwroot/inputfile.js
